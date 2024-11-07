@@ -4,6 +4,8 @@ A new Flutter project Next Task.
 
 ## Getting Started
 
+<img src="https://github.com/F-Reza/Next_Task_Tracking_FLutter/blob/main/Untitled.png" width="100%"> 
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
