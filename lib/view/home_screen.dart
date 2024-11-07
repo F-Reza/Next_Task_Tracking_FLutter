@@ -74,11 +74,6 @@ class HomeScreen extends StatelessWidget {
               ),
             ),
             const SizedBox(height: 10),
-            Container(
-              height: 100,
-              color: Colors.blueAccent,
-            ),
-            const SizedBox(height: 10),
             // Task List
             Expanded(
               child: ListView.builder(
